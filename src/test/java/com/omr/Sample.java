@@ -8,6 +8,8 @@ public class Sample {
 	private void hdfc() {
 		// TODO Auto-generated method stub
   System.out.println("the bank is good");
+  System.out.println("the bank have profit");
+  System.out.println("the bank lack of space");
 	}
 	
 public static void main(String[] args) {

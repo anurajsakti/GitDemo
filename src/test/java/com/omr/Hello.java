@@ -9,6 +9,8 @@ public class Hello {
 	}
 	public void t2() {
 		System.out.println("I love canada");
+		System.out.println("I love qubecs");
+
 
 	}
 	public void t3() {
