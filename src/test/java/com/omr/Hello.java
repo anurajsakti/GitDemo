@@ -4,6 +4,8 @@ public class Hello {
     public void t1() {
 		
 		System.out.println("I love my husband");
+		System.out.println("I love my plant");
+		System.out.println("I love my house");
 	}
 	public void t2() {
 		System.out.println("I love canada");
