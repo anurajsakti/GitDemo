@@ -16,6 +16,7 @@ public class Employee {
 	public Employee(long phno,String name ) {
 		this("Bala");
 		System.out.println("long para constructor");
+		System.out.println("it is good to see you");
 	}
 
 	public static void main(String[] args) {
