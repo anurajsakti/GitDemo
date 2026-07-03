@@ -12,6 +12,9 @@ public class Employee {
 	public Employee(String name) {
 		
 		System.out.println("String para constructor");
+		System.out.println("String para constructor");
+		System.out.println("String para constructor");
+		System.out.println("String para constructor");
 	}
 	public Employee(long phno,String name ) {
 		this("Bala");
